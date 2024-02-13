@@ -1,9 +1,9 @@
 ---
 title: "Practice Activity 6"
+author: "Ashlyn Phillips, Amy Truong, Emily Robinson"
 format: html
 editor: visual
 embed-resources: true
-author: Ashlyn Phillips, Amy Truong
 ---
 
 ## Quarto
