@@ -3,7 +3,7 @@ title: "Practice Activity 6"
 format: html
 editor: visual
 embed-resources: true
-author: Ashlyn, Amy
+author: Ashlyn Phillips, Amy Truong
 ---
 
 ## Quarto
